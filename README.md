@@ -18,7 +18,7 @@
 
 <a align="center" href="http://github-readme-streak-stats.herokuapp.com?user=EvgenGal1&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&fire=DD2727)](https://git.io/streak-stats">
 </a>
-<a href="http://github-readme-streak-stats.herokuapp.com?user=EvgenGal1&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&fire=DD2727)](https://git.io/streak-stats">
+<a align="center" href="http://github-readme-streak-stats.herokuapp.com?user=EvgenGal1&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&fire=DD2727)](https://git.io/streak-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
