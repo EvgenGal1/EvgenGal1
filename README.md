@@ -14,7 +14,6 @@
 <h2 align="center">Мои навыки программирования:</h2>
 HTML CSS Bootstrap SASS LESS JavaScript Gulp WebPack GitHub MySQL
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -35,7 +34,7 @@ HTML CSS Bootstrap SASS LESS JavaScript Gulp WebPack GitHub MySQL
 JavaScript React 
 
 <h2 align="center">В планах так же имеется</h2>
-Питон MySQL Джанго
+Питон MySQL Джанго <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 
 <!--
 **EvgenGal1/EvgenGal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
