@@ -41,11 +41,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Git" **alt="Git" width="40" height="40" margin-left="5px"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40" margin-left="5px"/>&nbsp;
 <div/>
+
   
-<p>Помощь в Приветствии помогли осуществить следующие материалы:
-  <span>https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17<span/>
-  <span>https://github.com/devicons/devicon/tree/master/icons<span/>
-<p/>
+<h2>Помощь в Приветствии помогли осуществить следующие материалы:
+<div>
+    <p>https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17<p/>
+    <p>https://github.com/devicons/devicon/tree/master/icons<p/>
+  <h2/>
+<div/>
 <!--
 **EvgenGal1/EvgenGal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
