@@ -14,7 +14,9 @@
 <h2 align="center">Мои навыки программирования:</h2>
 HTML CSS Bootstrap SASS LESS JavaScript Gulp WebPack GitHub MySQL
 <img width="48" height="48" src="https://worldvectorlogo.com/logos/html5.svg"><img width="48" height="48" src="https://worldvectorlogo.com/logos/css-3.svg"><img width="48" height="48" src="https://worldvectorlogo.com/logos/sass-1.svg">
-<a href="https://#"><img width="48" height="48" src="https://worldvectorlogo.com/logo/webpack.svg"></a><a href="https://#"><img width="48" height="48" src="https://worldvectorlogo.com/logo/jquery.svg"></a>
+
+<a href="https://#"><img width="48" height="48" src="https://worldvectorlogo.com/logo/webpack.svg"></a> <a href="https://#"><img width="48" height="48" src="https://worldvectorlogo.com/logo/jquery.svg"></a>
+
 <a href="https://#"><img width="48" height="48" src="https://worldvectorlogo.com/logo/react.svg"><img width="48" height="48" src="https://worldvectorlogo.com/logos/babel.svg"></a>
 
 <h2 align="center">Я осваиваю программные навыки:</h2>
