@@ -1,10 +1,10 @@
 <div align="center">
   <h1>Добро пожаловать в профиль EvGen Gal (Дзыы))) !) !!))</h1>
+  <p>ПОКА В РАЗРАБОТКЕ</p>
     <a href="#" target="_blank">EvGen Gal</a> | 
     <a href="#" target="_blank">В Никуда</a> | 
     <a href="#" target="_blank">В Нигде</a> | 
     <a href="#" target="_blank">В Никогда</a>
-  </p>
 </div>
 <!-- [![EvGen Gal][EvGen]][vk] | 
 [![В Никуда][nowhereTo]][nwt] | 
