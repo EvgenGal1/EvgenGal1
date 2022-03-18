@@ -10,12 +10,13 @@
 [![В Никуда][nowhereTo]][nwt] | 
 [![В Нигде][nowhere]][nwe] | 
 [![В Никогда][inNever]][inr] -->
-
+<div align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EvgenGal1&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&fire=DD2727)](https://git.io/streak-stats)
+</div>
+<div >
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgenGal1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvgenGal1&show_icons=true)](https://github.com/EvgenGal1)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvgenGal1&theme=dark)](https://github.com/EvgenGal1)
-
+</div>
 <h2>Мои навыки программирования:</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" margin-left="5px"/>&nbsp;
@@ -53,6 +54,7 @@
     <li><a href="https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17" target="_blank">Как креативно оформить профиль на GitHub</a>
     <li><a href="https://habr.com/ru/post/649363/" target="_self">Оформляем README-файл профиля на GitHub</a>
     <li><a href="https://github.com/devicons/devicon/tree/master/icons" target="_self">Devicon - проект стремящейся собрать все логотипы</a>
+    <li><a href="https://github.com/anuraghazra/github-readme-stats" target="_self">GitHub Readme Stats - динамически генерируемая статистика</a>
 <div/>
 <!--
 **EvgenGal1/EvgenGal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
