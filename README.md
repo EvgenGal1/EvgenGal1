@@ -16,6 +16,13 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvgenGal1&layout=compact&theme=vision-friendly-dark)](https://github.com/EvgenGal1)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgenGal1&layout=compact&theme=vision-friendly-dark&width=2px)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 <h2>Мои навыки программирования:</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" margin-left="5px"/>&nbsp;
