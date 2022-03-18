@@ -10,13 +10,15 @@
 [![В Никуда][nowhereTo]][nwt] | 
 [![В Нигде][nowhere]][nwe] | 
 [![В Никогда][inNever]][inr] -->
+1
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?EvgenGal1&theme=dark&background=000000)](https://github.com/EvgenGal1)
-
-
+2
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EvgenGal1&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&fire=DD2727)](https://git.io/streak-stats)
+3
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgenGal1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+4
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvgenGal1&show_icons=true)](https://github.com/EvgenGal1)
-
+5
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvgenGal1)](https://github.com/EvgenGal1)
 
 <h2>Мои навыки программирования:</h2>
