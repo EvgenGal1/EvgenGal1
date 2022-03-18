@@ -11,6 +11,11 @@
 [![В Нигде][nowhere]][nwe] | 
 [![В Никогда][inNever]][inr] -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EvgenGal1)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgenGal1&layout=compact)](https://github.com/EvgenGal1/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvgenGal1)](https://github.com/EvgenGal1/github-readme-stats)
+
+
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvgenGal1)](https://github.com/EvgenGal1/github-readme-stats)
 
 <h2>Мои навыки программирования:</h2>
 <div>
@@ -47,6 +52,7 @@
 <h2>Помощь в Приветствии помогли осуществить следующие материалы:<h2/>
 <div>
     <li><a href="https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17" target="_blank">Как креативно оформить профиль на GitHub</a>
+    <li><a href="https://habr.com/ru/post/649363/" target="_self">Оформляем README-файл профиля на GitHub</a>
     <li><a href="https://github.com/devicons/devicon/tree/master/icons" target="_self">Devicon - проект стремящейся собрать все логотипы</a>
 <div/>
 <!--
