@@ -16,12 +16,12 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvgenGal1&layout=compact&theme=vision-friendly-dark)](https://github.com/EvgenGal1)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgenGal1&layout=compact&theme=vision-friendly-dark&width=2px)](https://github.com/anuraghazra/github-readme-stats)
 
-<a align="center" href="http://github-readme-streak-stats.herokuapp.com?user=EvgenGal1&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&fire=DD2727)](https://git.io/streak-stats">
+<!-- <a align="center" href="http://github-readme-streak-stats.herokuapp.com?user=EvgenGal1&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&fire=DD2727)](https://git.io/streak-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 <a align="center" href="http://github-readme-streak-stats.herokuapp.com?user=EvgenGal1&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&fire=DD2727)](https://git.io/streak-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+</a> -->
 
 <h2>Мои навыки программирования:</h2>
 <div>
