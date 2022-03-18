@@ -46,12 +46,8 @@
 <h2>Помощь в Приветствии помогли осуществить следующие материалы:<h2/>
 <div>
   <ul>
-    <li>
-      <a href="https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17" target="_blank">Как креативно оформить профиль на GitHub</a>
-    <li/>
-    <li>
-      <a href="https://github.com/devicons/devicon/tree/master/icons" target="_blank">Devicon - проект стремящейся собрать все логотипы</a>
-    <li/>
+    <li><a href="https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17" target="_blank">Как креативно оформить профиль на GitHub</a><li/>
+    <li><a href="https://github.com/devicons/devicon/tree/master/icons" target="_blank">Devicon - проект стремящейся собрать все логотипы</a><li/>
   <ul/>
 <div/>
 <!--
