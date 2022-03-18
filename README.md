@@ -1,5 +1,4 @@
 <div align="center">
-  <img width="200" height="200" src="./test ES4/img/logo/ЕжеСветRedWhWhEff.png"  alt="">
   <h1>### Добро пожаловать в профиль EvGen Gal!)!!))</h1>
     <a href="#" target="_blank">EvGen Gal</a> | 
     <a href="#" target="_blank">В Никуда</a> | 
@@ -14,8 +13,7 @@
 
 <h2 align="center">Мои навыки программирования:</h2>
 HTML CSS Bootstrap SASS LESS JavaScript Gulp WebPack GitHub MySQL
-<a href="https://#"><img width="48" height="48" src="https://worldvectorlogo.com/logos/html5.svg"></a><img width="48" height="48" src="https://worldvectorlogo.com/logos/css-3.svg">
-<a href="https://#"><img width="48" height="48" src="https://worldvectorlogo.com/logos/sass-1.svg"></a> 
+<img width="48" height="48" src="https://worldvectorlogo.com/logos/html5.svg"><img width="48" height="48" src="https://worldvectorlogo.com/logos/css-3.svg"><img width="48" height="48" src="https://worldvectorlogo.com/logos/sass-1.svg">
 
 <h2 align="center">Я осваиваю программные навыки:</h2>
 JavaScript JavaScript
