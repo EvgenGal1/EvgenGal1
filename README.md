@@ -19,6 +19,8 @@ HTML CSS Bootstrap SASS LESS JavaScript Gulp WebPack GitHub MySQL
 
 <a href="https://#"><img width="48" height="48" src="https://worldvectorlogo.com/logo/react.svg"><img width="48" height="48" src="https://worldvectorlogo.com/logos/babel.svg"></a>
 
+#SCSS
+
 <h2 align="center">Я осваиваю программные навыки:</h2>
 JavaScript React 
 
