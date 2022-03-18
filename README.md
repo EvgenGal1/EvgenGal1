@@ -10,7 +10,7 @@
 [![В Никуда][nowhereTo]][nwt] | 
 [![В Нигде][nowhere]][nwe] | 
 [![В Никогда][inNever]][inr] -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EvgenGal1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EvgenGal1)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgenGal1&layout=compact)](https://github.com/EvgenGal1/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvgenGal1)](https://github.com/EvgenGal1/github-readme-stats)
 
