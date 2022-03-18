@@ -49,6 +49,8 @@
     <li><a href="https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17" target="_blank">Как креативно оформить профиль на GitHub</a><li/>
     <li><a href="https://github.com/devicons/devicon/tree/master/icons" target="_blank">Devicon - проект стремящейся собрать все логотипы</a><li/>
   <ul/>
+    <li><a href="https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17" target="_blank">Как креативно оформить профиль на GitHub</a><li/>
+    <li><a href="https://github.com/devicons/devicon/tree/master/icons" target="_blank">Devicon - проект стремящейся собрать все логотипы</a><li/>
 <div/>
 <!--
 **EvgenGal1/EvgenGal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
