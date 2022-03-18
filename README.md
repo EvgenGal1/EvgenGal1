@@ -19,6 +19,8 @@
 
 [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvgenGal1)](https://github.com/EvgenGal1/github-readme-stats)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EvgenGal1&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&fire=DD2727)](https://git.io/streak-stats)
+
 <h2>Мои навыки программирования:</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" margin-left="5px"/>&nbsp;
