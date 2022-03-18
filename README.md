@@ -43,11 +43,10 @@
 <div/>
 
   
-<h2>Помощь в Приветствии помогли осуществить следующие материалы:
+<h2>Помощь в Приветствии помогли осуществить следующие материалы:<h2/>
 <div>
     <p>https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17<p/>
     <p>https://github.com/devicons/devicon/tree/master/icons<p/>
-  <h2/>
 <div/>
 <!--
 **EvgenGal1/EvgenGal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
