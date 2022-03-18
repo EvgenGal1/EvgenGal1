@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Добро пожаловать в профиль EvGen Gal (Дзыы))) !) !!))</h1>
-  <p>ПОКА В РАЗРАБОТКЕ</p>
+  <p>ПРИВЕТСТВИЕ ПОКА В РАЗРАБОТКЕ</p>
     <a href="#" target="_blank">EvGen Gal</a> | 
     <a href="#" target="_blank">В Никуда</a> | 
     <a href="#" target="_blank">В Нигде</a> | 
