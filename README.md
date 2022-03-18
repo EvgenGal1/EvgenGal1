@@ -10,6 +10,7 @@
 [![В Никуда][nowhereTo]][nwt] | 
 [![В Нигде][nowhere]][nwe] | 
 [![В Никогда][inNever]][inr] -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EvgenGal1)](https://git.io/streak-stats)
 
 <h2>Мои навыки программирования:</h2>
 <div>
